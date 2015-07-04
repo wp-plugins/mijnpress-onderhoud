@@ -1,7 +1,7 @@
 === MijnPress onderhoud ===
 Contributors: Ramon Fincken
 Donate link: http://donate.ramonfincken.com
-Tags: mijnpress,high,traffic
+Tags: mijnpress,maintenance,onderhoud,security,administration,permissions
 Requires at least: 4.0
 Tested up to: 4.2.2
 Stable tag: 0.0.2
