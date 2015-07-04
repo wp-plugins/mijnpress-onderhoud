@@ -27,9 +27,9 @@ Revokes permissions for non-main admins: 'activate_plugins', 'edit_plugins', 'in
 == Installation ==
 
 1. Upload directory `mijnpress_onderhoud` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Add this define to your wp-config and adjust the YOUR_SITE_MAIN_ADMIN_USER_ID HERE<br>
+2. Add this define to your wp-config and adjust the YOUR_SITE_MAIN_ADMIN_USER_ID HERE<br>
 define('MP_MIJNPRESS_ONDERHOUD', YOUR_SITE_MAIN_ADMIN_USER_ID HERE);
+3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
 
